@@ -8,7 +8,7 @@ data = pd.read_csv('data/mental_health.csv')
 dataset = Dataset.from_pandas(data)
 
 # Load the tokenizer and model
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased') 
 model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=3)
 
 # Tokenize the dataset
