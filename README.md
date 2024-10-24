@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Project Title</h3>
+<h3 align="center">Mind Guard</h3>
 
 <div align="center">
 
@@ -22,16 +22,18 @@
 
 ## 📝 Table of Contents
 
-- [Problem Statement](#problem_statement)
-- [Idea / Solution](#idea)
-- [Dependencies / Limitations](#limitations)
-- [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
-- [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 Problem Statement ](#-problem-statement-)
+- [💡 Idea / Solution ](#-idea--solution-)
+- [⛓️ Dependencies / Limitations ](#️-dependencies--limitations-)
+- [🚀 Future Scope ](#-future-scope-)
+- [🏁 Getting Started ](#-getting-started-)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
+- [🎈 Usage ](#-usage-)
+- [⛏️ Built With ](#️-built-with-)
+- [✍️ Authors ](#️-authors-)
+- [🎉 Acknowledgments ](#-acknowledgments-)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
