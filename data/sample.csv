@@ -1,0 +1,5 @@
+Post ID,Post Content,Date,Sentiment,Crisis Indicator
+1,I feel really anxious today,2024-10-22,Negative,1
+2,I'm happy about how things are going!,2024-10-23,Positive,0
+3,Life is getting worse every day,2024-10-23,Negative,1
+4,I’m stressed and don’t know what to do,2024-10-24,Negative,1
